@@ -1,0 +1,14 @@
+Income Transactions:
+{'Amount': 100000, 'Category': 'salary', 'Date': '10/08/23', 'Details': 'monthly salary'}
+
+Expense Transactions:
+{'Amount': 15000, 'Category': '', 'Date': '10/09/23', 'Details': 'housing'}
+{'Amount': 9000, 'Category': 'food', 'Date': '15/09/23', 'Details': 'fooding'}
+{'Amount': 9000, 'Category': 'shopping', 'Date': '17/09/23', 'Details': 'clothes'}
+{'Amount': 4000, 'Category': 'entertainment', 'Date': '16/09/23', 'Details': 'movies'}
+{'Amount': 5000, 'Category': 'grocery', 'Date': '17/09/23', 'Details': 'groceries'}
+{'Amount': 9000, 'Category': 'transportation', 'Date': '19/09/23', 'Details': 'convience'}
+{'Amount': 9000, 'Category': 'waterbill', 'Date': '19/09/23', 'Details': 'water'}
+{'Amount': 7000, 'Category': 'tax', 'Date': '16/00/23', 'Details': 'GST'}
+{'Amount': 8000, 'Category': 'miscellaneous', 'Date': '20/09/23', 'Details': 'extra'}
+{'Amount': 5000, 'Category': 'grooming', 'Date': '17/09/23', 'Details': 'parlour'}

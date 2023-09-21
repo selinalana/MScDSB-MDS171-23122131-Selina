@@ -7,7 +7,7 @@ Email:selina.lana@msds.christuniversity.in
 # CONTENT
 
 |CLASS|DATE|QUESTION|LINK|
-|-------|----------|--------------------------------------|-------------------------------|
+|-------|----------------------|--------------------------------------|-------------------------------|
 |Lab01||29 August 2023|Print Your name n times|[Lab01](https://github.com/selinalana/MScDSB-MDS171-23122131-Selina/blob/main/Lab01.ipynb)|
 |Lab02||29 August 2023|The Numerical Odyssey|[Lab02](https://github.com/selinalana/MScDSB-MDS171-23122131-Selina/blob/main/Lab02.ipynb)|
 |Lab03||31 August 2023|The Tale of Numbers' Harmony|[Lab03](https://github.com/selinalana/MScDSB-MDS171-23122131-Selina/blob/main/Lab03.ipynb)|

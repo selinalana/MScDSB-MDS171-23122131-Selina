@@ -14,8 +14,10 @@ Email:selina.lana@msds.christuniversity.in
 |Lab04|5 September 2023|From Farm to Table: The Grocery Store Management System|[Lab04](https://github.com/selinalana/MScDSB-MDS171-23122131-Selina/blob/main/LABS/Lab%2004.ipynb)|
 |Lab05|12 September 2023|Vowel Counter|[Lab05](https://github.com/selinalana/MScDSB-MDS171-23122131-Selina/blob/main/LABS/Lab05.ipynb)|
 |Lab06|14 September 2023|Mix & Match Calculator|[Lab06](https://github.com/selinalana/MScDSB-MDS171-23122131-Selina/tree/main/LABS/Lab%2006)|
+|CAC1|19 September 2023|CAC-1|[CAC1](https://github.com/selinalana/MScDSB-MDS171-23122131-Selina/blob/main/CACS/CAC1/ATMMachine.ipynb)|
 |Lab07|21 September 2023|Expense Tracker|[Lab07](https://github.com/selinalana/MScDSB-MDS171-23122131-Selina/tree/main/LABS/Lab%2007)|
 |Lab08|3 October 2023|Stack class|[Lab08](https://github.com/selinalana/MScDSB-MDS171-23122131-Selina/blob/main/LABS/Lab08.ipynb)|
-|Lab09|10 October 2023|Petstore class|[Lab09](https://github.com/selinalana/MScDSB-MDS171-23122131-Selina/tree/main/LABS/Lab09)
+|Lab09|10 October 2023|Petstore class|[Lab09](https://github.com/selinalana/MScDSB-MDS171-23122131-Selina/tree/main/LABS/Lab09)|
+|CAC2|25 October 2023|CAC-2|[CAC2](https://github.com/selinalana/MScDSB-MDS171-23122131-Selina/tree/main/CACS/CAC2)|
 |Lab10|26th October 2023|Practice Question|[Lab09](https://github.com/selinalana/MScDSB-MDS171-23122131-Selina/blob/main/LABS/Lab10.ipynb)
 
